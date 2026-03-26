@@ -40,5 +40,11 @@ Everyday Functioning Prompts:
   “How is encryption used in daily life when sending WhatsApp messages?”
 
   OUTPUT:
+  Prompts were created for three types—Comparative Analysis, Experiential Perspective, and Everyday Functioning—based on a smartphone purchase scenario.
+
+  Comparative Analysis prompt compared iPhone 14 and Samsung Galaxy S23 based on battery, camera, performance, and price.
+  Experiential Perspective prompt explained smartphone usage from a college student’s point of view.
+  Everyday Functioning prompt described how smartphone features are used in daily activities like communication, learning, and entertainment.
 
   RESULT:
+  Comparative Analysis prompts help in decision-making by evaluating options, Experiential Perspective prompts provide user-based understanding of practical usage,   and Everyday Functioning prompts explain how technology is applied in real-life situations.
